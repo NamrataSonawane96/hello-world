@@ -2,3 +2,5 @@ version: "1"
 
 environment:
   BASE_IMAGE_PATH: $INPUT_IMAGE
+  MKV_ENV: $MARKOV_ENVIRONMENT
+  MKV_TEAM: $MARKOV_TEAM
