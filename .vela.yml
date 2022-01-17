@@ -1,0 +1,4 @@
+version: "1"
+
+environment:
+  BASE_IMAGE_PATH: $INPUT_IMAGE
